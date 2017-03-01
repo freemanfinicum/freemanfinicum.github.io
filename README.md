@@ -1,7 +1,7 @@
 # freemanfinicum.github.io
 
-Welcome to Everyone :)...
 
+Welcome to Everyone :)...
 
 
 
