@@ -1,2 +1,9 @@
 # freemanfinicum.github.io
-This is my Public we page repo
+
+Welcome to Everyone :)...
+
+
+
+
+https://www.youtube.com/watch?v=5zL_W5gggmo&t=406s
+
