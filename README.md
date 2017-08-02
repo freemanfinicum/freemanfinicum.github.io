@@ -6,7 +6,7 @@ Welcome Everyone :)...
 My name is Edward Freeman and I Am creating Financial Independence in my life here and now.  I invite Everyone to create their own Financial Independence as I have done using Bitcoin and other crypto currencies.  Included here are links to open and create your own free Bitcoin/Crypto-currency accounts.  I find that using a couple of accounts works best for me.  At this time, I am available for questions regarding what, when, where and how about Bitcoin and other crypto-currencies...
 
 
-OpenLedger
+OpenLedger-
 
 
 Create free account:  https://bitshares.openledger.info?r=community-crypto-union
@@ -16,7 +16,7 @@ OpenLedger Intro:  https://www.youtube.com/watch?v=JG_XiOdbum8
 How to fund your new account:  https://www.youtube.com/watch?v=B050uCS7NbI
 
 
-Bittrex
+Bittrex-
 
 
 Create free account:  https://bittrex.com/Account/Register
@@ -24,7 +24,7 @@ Create free account:  https://bittrex.com/Account/Register
 How to fund your new account:  https://www.youtube.com/watch?v=ITUX4W6Ig2w
 
 
-ViaBTC
+ViaBTC-
 
 
 Create free account:  https://www.viabtc.com/account/signup
