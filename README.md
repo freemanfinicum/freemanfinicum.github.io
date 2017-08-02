@@ -1,9 +1,31 @@
 # freemanfinicum.github.io
 
 
-Welcome to Everyone :)...
+Welcome Everyone :)...
+
+My name is Edward Freeman and I Am creating Financial Independence in my life here and now.  I invite Everyone to create their own Financial Independence as I have done using Bitcoin and other crypto currencies.  Included here are links to open and create your own free Bitcoin/Crypto-currency accounts.  I find that using a couple of accounts works best for me.  At this time, I am available for questions regarding what, when, where and how about Bitcoin and other crypto-currencies...
+
+
+OpenLedger
+Create free account:  https://bitshares.openledger.info?r=community-crypto-union
+OpenLedger Intro:  https://www.youtube.com/watch?v=JG_XiOdbum8
+How to fund your new account:  https://www.youtube.com/watch?v=B050uCS7NbI
+
+
+Bittrex
+Create free account:  https://bittrex.com/Account/Register
+How to fund your new account:  https://www.youtube.com/watch?v=ITUX4W6Ig2w
+
+
+ViaBTC
+Create free account:  https://www.viabtc.com/account/signup
+Open Cloud Mining Account:  https://pool.viabtc.com/?r=34262
+Open Cloud Mining Account:  https://www.youtube.com/watch?v=3Ld5L4VIpRA
 
 
 
-https://www.youtube.com/watch?v=5zL_W5gggmo&t=406s
+Contact info:
+ereidhead@gmail.com
+www.facebook.com/edward.reidhead.1
+
 
