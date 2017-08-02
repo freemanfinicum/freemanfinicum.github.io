@@ -8,6 +8,7 @@ My name is Edward Freeman and I Am creating Financial Independence in my life he
 
 OpenLedger
 
+
 Create free account:  https://bitshares.openledger.info?r=community-crypto-union
 
 OpenLedger Intro:  https://www.youtube.com/watch?v=JG_XiOdbum8
@@ -17,12 +18,14 @@ How to fund your new account:  https://www.youtube.com/watch?v=B050uCS7NbI
 
 Bittrex
 
+
 Create free account:  https://bittrex.com/Account/Register
 
 How to fund your new account:  https://www.youtube.com/watch?v=ITUX4W6Ig2w
 
 
 ViaBTC
+
 
 Create free account:  https://www.viabtc.com/account/signup
 
@@ -33,6 +36,7 @@ Open Cloud Mining Account:  https://www.youtube.com/watch?v=3Ld5L4VIpRA
 
 
 Contact info:
+
 
 ereidhead@gmail.com
 www.facebook.com/edward.reidhead.1
