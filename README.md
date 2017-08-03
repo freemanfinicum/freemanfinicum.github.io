@@ -61,3 +61,4 @@ Litecoin- LTC  LU2Q4b7o8Xk5n1b3E8HTYJxzFXYnKzJpKf
 Ethereum- ETH   0x8d422711a48c50c9757bd3e78297cfb559bab5be
 EOS-  0x88478e161730819443d022ce135ee5a613544305
 
+New Projects Under Development
