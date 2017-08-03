@@ -54,11 +54,11 @@ Our mission here at the Bitcoin/Crypto-Currency Welcome Project is to bring fina
 
 "Welcome Everyone" Community-Crypto-Union Welcome Project Deposit Addresses
 
-OpenLedger/Bitshares/OBITS/ICOO-  community-crypto-union
-Bitcoin- BTC  1F5bv4PfCj1nEhMYQZDk5VB8bFSnRqRpAm
-Bitcoin Cash- BCH  188JDYMHYk2LQm1xdsD7vEbg9Bja17Lsie
-Litecoin- LTC  LU2Q4b7o8Xk5n1b3E8HTYJxzFXYnKzJpKf
-Ethereum- ETH   0x8d422711a48c50c9757bd3e78297cfb559bab5be
-EOS-  0x88478e161730819443d022ce135ee5a613544305
+OpenLedger/Bitshares/OBITS/ICOO-  community-crypto-union 
+Bitcoin- BTC  1F5bv4PfCj1nEhMYQZDk5VB8bFSnRqRpAm 
+Bitcoin Cash- BCH  188JDYMHYk2LQm1xdsD7vEbg9Bja17Lsie 
+Litecoin- LTC  LU2Q4b7o8Xk5n1b3E8HTYJxzFXYnKzJpKf 
+Ethereum- ETH   0x8d422711a48c50c9757bd3e78297cfb559bab5be 
+EOS-  0x88478e161730819443d022ce135ee5a613544305 
 
 New Projects Under Development
