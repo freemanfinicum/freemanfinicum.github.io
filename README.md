@@ -9,7 +9,7 @@ My name is Edward Freeman and I Am creating Financial Independence in my life he
 OpenLedger-
 
 
-Create free account:<a href="https://bitshares.openledger.info?r=community-crypto-union" target="_blank">OpenLedger</a>                                                        <a href="https://bitshares.openledger.info?r=community-crypto-union">target="_blank">OpenLedger</a> 
+Create free account:<a href="https://bitshares.openledger.info?r=community-crypto-union" target="_blank">OpenLedger</a>                                                         
 
 OpenLedger Intro:  https://www.youtube.com/watch?v=JG_XiOdbum8
 
