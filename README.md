@@ -39,7 +39,7 @@ Open Cloud Mining Account:   <a href="https://pool.viabtc.com/?r=34262" target="
 Open Cloud Mining Account:   <a href="https://www.youtube.com/watch?v=3Ld5L4VIpRA" target="_blank">ViaBTC cloud mining account video</a>
 
 
-Analyze and study Crypto-Currency Markets<a href="https://coinmarketcap.com/all/views/all/" target="_blank">Analyze and study Crypto-Currency Markets</a>
+<a href="https://coinmarketcap.com/all/views/all/" target="_blank">Analyze and study Crypto-Currency Markets</a>
 
 
 Contact info:
