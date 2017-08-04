@@ -15,7 +15,7 @@ Create free account:   <a href="https://bitshares.openledger.info?r=community-cr
 OpenLedger Intro:   <a href="https://www.youtube.com/watch?v=JG_XiOdbum8" target="_blank">What is OpenLedger?</a>
 
 
-How to fund your new account:   <a href="https://www.youtube.com/watch?v=JG_XiOdbum8" target="_blank">How to create and fund your OpenLedger account</a>
+How to fund your new account:   <a href="https://www.youtube.com/watch?v=B050uCS7NbI" target="_blank">How to create and fund your OpenLedger account</a>
 
 
 Bittrex-
