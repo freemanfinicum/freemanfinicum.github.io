@@ -3,7 +3,7 @@
 
 Welcome Everyone :)
 
-My name is Edward Freeman and I Am creating Financial Independence in my life here and now.  I invite Everyone to create their own Financial Independence as I have done using Bitcoin and other crypto currencies.  Included here are links to open and create your own free Bitcoin/Crypto-currency accounts.  I find that using a couple of accounts works best for me.  At this time, I am available for questions regarding what, when, where and how about Bitcoin and other crypto-currencies...
+I Am called Edward Freeman Reidhead and I Am creating Financial Independence in my life here and now.  I invite Everyone to create their own Financial Independence as I have done using Bitcoin and other crypto currencies.  Included here are links to open and create your own free Bitcoin/Crypto-currency accounts.  I find that using a couple of accounts works best for me.  At this time, I am available for questions regarding what, when, where and how about Bitcoin and other crypto-currencies...
 
 
 OpenLedger-
