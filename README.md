@@ -84,24 +84,9 @@ EOS-   0x88478e161730819443d022ce135ee5a613544305
 New Projects Under Development
 
 
-<?php
-//Easy Counter code begins
-
-$ec_username = 'reidhead'; // <--- your username
-
-if (!$ec_fsock = fsockopen('www.easycounter.com', 80, $errno, $errstr, 2)) {
-  echo '<img src="http://www.easycounter.com/images/error.png">';
-} else {
-  fputs($ec_fsock, "GET /php.counter.php?username=".urlencode($ec_username)." HTTP/1.0\r\n".
-  "Host:www.easycounter.com\r\n\r\n");
-  $ec_buffer = '';
-  while (!feof($ec_fsock)) $ec_buffer .= fgets($ec_fsock, 1024);
-  echo substr($ec_buffer, strpos($ec_buffer, "\n\r\n")+3);
-  fclose($ec_fsock);
-}
-
-//Easy Counter code ends
-?>
-
+<a href="http://www.easycounter.com/">
+<img src="//www.easycounter.com/counter.php?reidhead"
+border="0" alt="Web Site Hit Counters"></a>
+<br><a href="http://www.easycounter.com/">HTML Counter</a>
 
 
