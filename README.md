@@ -17,6 +17,8 @@ OpenLedger Intro:   <a href="https://www.youtube.com/watch?v=JG_XiOdbum8" target
 
 How to fund your new account:   <a href="https://www.youtube.com/watch?v=B050uCS7NbI" target="_blank">How to create and fund your OpenLedger account</a>
 
+Create your free sovereign blockchain based social blogging account:  <a href="https://steemit.com/" target="_blank">Steamit</a>
+
 
 Bittrex-
 
