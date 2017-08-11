@@ -17,7 +17,7 @@ OpenLedger Intro:   <a href="https://www.youtube.com/watch?v=JG_XiOdbum8" target
 
 How to fund your new account:   <a href="https://www.youtube.com/watch?v=B050uCS7NbI" target="_blank">How to create and fund your OpenLedger account</a>
 
-Create your free sovereign blockchain based social blogging account:    <a href="https://steemit.com/" target="_blank">Steemit</a>
+Create your sovereign and free blockchain based social blogging account:    <a href="https://steemit.com/" target="_blank">Steemit</a>
 
 
 Bittrex-
@@ -55,7 +55,9 @@ Contact info:
 I Am developing the following projects:
 
 Online Reputation Repository
+
 community-crypto-union:   develop HEAT based client for all people to create their free blochchain account w secure private wallet
+
 <a href="https://steemit.com/blockchain/@bloggersclub/openledger-aps-is-hiring-country-ambassadors" target="_blank">OpenLedger Ambassadors Club</a>
 
 If you are interested in contributing to a project, send me an email and I will add you to our projects team Slack.com web page
