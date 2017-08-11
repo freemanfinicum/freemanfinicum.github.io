@@ -52,9 +52,19 @@ Contact info:
 
 <a href="www.facebook.com/edward.reidhead.1" target="_blank">Facebook</a>
 
-Our mission here at the Bitcoin/Crypto-Currency Welcome Project is to bring financial independence to Everyone on this planet.  If you benefit from any information on this webpage consider donating coin. :)
+I Am developing the following projects:
 
-"Welcome Everyone" Community-Crypto-Union Welcome Project Deposit Addresses
+Online Reputation Repository
+community-crypto-union:   develop HEAT based client for all people to create their free blochchain account w secure private wallet
+<a href="https://steemit.com/blockchain/@bloggersclub/openledger-aps-is-hiring-country-ambassadors" target="_blank">OpenLedger Ambassadors Club</a>
+
+If you are interested in contributing to a project, send me an email and I will add you to our projects team Slack.com web page
+
+Our mission here at the Bitcoin/Crypto-Currency Welcome Project is to bring financial independence to Everyone on this planet.  
+
+If you wish to practice Withdrawals or Deposits, you can send coin in amouts equivalent to $10+ USD and indicate in messege field and email to me;    (I am practicing, will you send this coin back to me)
+
+Welcome Everyone:   Community-Crypto-Union Welcome Project Deposit Addresses
 
 OpenLedger/Bitshares/OBITS/ICOO-   community-crypto-union
 
