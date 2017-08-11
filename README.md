@@ -58,7 +58,7 @@ Online Reputation Repository
 
 community-crypto-union:   develop HEAT based client for all people to create their free blochchain account w secure private wallet
 
-<a href="https://steemit.com/blockchain/@bloggersclub/openledger-aps-is-hiring-country-ambassadors" target="_blank">OpenLedger Ambassadors Club</a>
+Send me an email if you are interested in being an OpenLedger Ambassador for the entire eco-system of offerings of OpenLedger DEX:   <a href="https://steemit.com/blockchain/@bloggersclub/openledger-aps-is-hiring-country-ambassadors" target="_blank">OpenLedger Ambassadors Club</a>
 
 If you are interested in contributing to a project, send me an email and I will add you to our projects team Slack.com web page
 
