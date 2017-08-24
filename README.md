@@ -83,6 +83,8 @@ EOS-   0x88478e161730819443d022ce135ee5a613544305
 
 New Projects Under Development
 
+Genesis Bitcoin/Crypto Mining- Use Affiliate code Ba4mxN for an immediate 3% discount on order   <a href="https://www.genesis-mining.com/a/1442426" target="_blank">Genesis Mining</a>
+
 
 <a href="http://www.easycounter.com/">
 <img src="//www.easycounter.com/counter.php?reidhead"
