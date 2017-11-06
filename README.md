@@ -12,7 +12,7 @@ I Am called Edward Freeman Reidhead and I Am creating Financial Independence in 
 OpenLedger-
 
 
-Create free account:   <a href="https://bitshares.openledger.info?r=community-crypto-union" target="_blank">OpenLedger</a>                                                         
+Create free account:   <a href="https://openledger.io?r=community-crypto-union" target="_blank">OpenLedger</a>                                                         
 
 OpenLedger Intro:   <a href="https://www.youtube.com/watch?v=JG_XiOdbum8" target="_blank">What is OpenLedger?</a>
 
