@@ -1,9 +1,9 @@
 # freemanfinicum.github.io
 
 
-Welcome Everyone :)
+Welcome Everyone to the Crypto-Currencies Open your free Account Links Webpage :)
 
-I Am called Edward Freeman Reidhead and I Am creating Financial Independence in my life here and now.  I invite everyone to take full responsibilty for their personal finances and create the own Bitcoin/crypto-currency accounts now via the links below.  Anyone can develop financial sovereignty and independence in their lives via crypto-currencies.  I find that using a couple of accounts works best for me, this allows people to practice completing "deposits" and "withdrawals" of Bitcoin (BTC) and other crypto-currencies.  At this time, I am personally available for questions on Bitcoin and other crypto-currencies.  I choose to be completely responsible for my personal finances... and you can also.
+I Am called Edward Freeman Reidhead and I Am creating Financial Independence in my life here and now.  I invite everyone to take full responsibilty for their personal finances and create their own Bitcoin/crypto-currency accounts now via the links below.  Anyone can develop financial sovereignty and independence in their lives via crypto-currencies.  I find that using a couple of accounts works best for me, this allows me to practice completing "deposits" and "withdrawals" of Bitcoin (BTC) and other crypto-currencies.  At this point in time, I am personally available for questions on Bitcoin and other crypto-currencies.  I choose to be completely responsible for my personal finances... and you can also.
 
 
 <a href="https://coinmarketcap.com/all/views/all/" target="_blank">Analyze and study Crypto-Currency Markets</a>
