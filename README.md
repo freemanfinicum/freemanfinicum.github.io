@@ -3,7 +3,7 @@
 
 Welcome Everyone :)
 
-I Am called Edward Freeman Reidhead and I Am creating Financial Independence in my life here and now.  Anyone that's 100% committed to being totally responsible for their personal finances may choose to create the own Bitcoin/crypto-currency accounts now via the links below.  I invite Everyone to create their free accounts now and experience a new level of financial sovereignty.  I'm including links here to create and open your own free Bitcoin/Crypto-currency accounts.  I find that using a couple of accounts works best for me.  This will allow you to practice completing "deposits" and "withdrawals" of Bitcoin (BTC) and other crypto-currencies.  At this time, I am personally available for questions on Bitcoin and other crypto-currencies.  I choose to be completely responsible for my personal finances... and you can also.
+I Am called Edward Freeman Reidhead and I Am creating Financial Independence in my life here and now.  I invite everyone to take full responsibilty for their personal finances and create the own Bitcoin/crypto-currency accounts now via the links below.  Anyone can develop financial sovereignty and independence in their lives via crypto-currencies.  I find that using a couple of accounts works best for me, this allows people to practice completing "deposits" and "withdrawals" of Bitcoin (BTC) and other crypto-currencies.  At this time, I am personally available for questions on Bitcoin and other crypto-currencies.  I choose to be completely responsible for my personal finances... and you can also.
 
 
 <a href="https://coinmarketcap.com/all/views/all/" target="_blank">Analyze and study Crypto-Currency Markets</a>
@@ -14,12 +14,9 @@ OpenLedger-
 
 Create free account:   <a href="https://bitshares.openledger.info?r=community-crypto-union" target="_blank">OpenLedger</a>                                                         
 
-
 OpenLedger Intro:   <a href="https://www.youtube.com/watch?v=JG_XiOdbum8" target="_blank">What is OpenLedger?</a>
 
-
 How to fund your new account:   <a href="https://www.youtube.com/watch?v=B050uCS7NbI" target="_blank">How to create and fund your OpenLedger account</a>
-
 
 Create your sovereign and free blockchain based social blogging account:    <a href="https://steemit.com/" target="_blank">Steemit</a>
 
@@ -28,7 +25,6 @@ Bittrex-
 
 
 Create free account:   <a href="https://bittrex.com/Account/Register" target="_blank">Bittrex</a>
-
 
 How to fund your new account:   <a href="https://www.youtube.com/watch?v=ITUX4W6Ig2w" target="_blank">How to fund your new account</a>
 
