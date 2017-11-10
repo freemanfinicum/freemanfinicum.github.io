@@ -1,10 +1,10 @@
 # freemanfinicum.github.io
 
 
-Welcome Everyone to the Crypto-Currencies Info and Open your free Account Links Webpage :)
+Welcome Everyone to the Crypto-Currencies Info and Open your free Accounts Links Webpage :)
 
-I am Edward Freeman Reidhead and I am creating financial independence in my life now.  I invite everyone to take responsibilty for your personal finances and create your own crypto-currency aka Bitcoin, BTC accounts via links below.  Anyone can develop financial sovereignty and independence in their life via using crypto-currencies.  I find that using a couple of accounts at different exchanges works best for me, I can learn the trading functions practice completing "deposits" and "withdrawals" of Bitcoin (BTC) and other crypto-currencies.  
-I am totally committed to using crypto-currencies now and in the future.  Take action now and create your own free crypto-currencies accounts.  We are all at the beginning of a revolution in financial sovereignty and independence if we choose to make it so.  I stand as source in developing blockchain based solutions that are open source, sovereign, independent, private and free of governmental confusion.  We can all co-create the new financial landscape as we choose.  By opening your free crypto currencies accounts you send strong signals to all the world.  A changing of the guard is developing in personal finance across the world.  Join me in creating the kind of financial system we can be worthy to pass on to our children...
+I am Edward Freeman Reidhead and I am creating financial independence in my life now.  I invite everyone to take responsibilty for your personal finances and create your own free crypto-currency aka Bitcoin BTC accounts via links below.  Anyone can develop financial sovereignty and independence in their life using crypto-currencies.  I find that using a couple of accounts at different exchanges works best for me, I can learn the different trading functions and practice completing "deposits" and "withdrawals" of Bitcoin (BTC) and other crypto-currencies.  
+I am totally committed to using crypto-currencies now and in the future.  Take action now and create your own free crypto-currencies accounts.  We are all at the beginning of a revolution in financial sovereignty and independence if we choose to make it so.  I stand as source in developing blockchain based solutions that are open source, sovereign, independent, private and free of governmental confusion.  We can all co-create the new financial landscape as we choose.  By opening your free crypto currencies accounts you send strong signals to all the world.  A changing of the guard is developing in personal finance across the world.  Join me in creating the kind of financial system we can all be worthy of and passing it on to our children and their children...
 
 
 
@@ -72,6 +72,10 @@ Send me an email if you are interested in being an OpenLedger Ambassador for the
 
 If you are interested in contributing to a project, send me an email and I will add you to our Slack.com team web page-  blockchaincreator.slack.com
 
+
+
+
+This URL/domain is named in honor of Lavoy Finicum and the sacrifice he made in Oregon...
 
 
 
