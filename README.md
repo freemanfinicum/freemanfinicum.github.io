@@ -1,20 +1,20 @@
 # freemanfinicum.github.io
 
 
-Welcome Everyone to the Crypto-Currencies Info and Open your free Accounts Links Webpage :)
+Welcome Everyone to the Crypto-Currencies Open your free Accounts links Webpage :)
 
 I am Edward Freeman Reidhead and I am creating financial independence in my life now.  I invite everyone to take responsibilty for your personal finances and create your own free crypto-currency aka Bitcoin BTC accounts via links below.  Anyone can develop financial sovereignty and independence in their life using crypto-currencies.  I find that using a couple of accounts at different exchanges works best for me, I can learn the different trading functions and practice completing "deposits" and "withdrawals" of Bitcoin (BTC) and other crypto-currencies.  
 I am totally committed to using crypto-currencies now and in the future.  Take action now and create your own free crypto-currencies accounts.  We are all at the beginning of a revolution in financial sovereignty and independence if we choose to make it so.  I stand as source in developing blockchain based solutions that are open source, sovereign, independent, private and free of governmental confusion.  We can all co-create the new financial landscape as we choose.  By opening your free crypto currencies accounts you send strong signals to all the world.  A changing of the guard is developing in personal finance across the world.  Join me in creating the kind of financial system we can all be worthy of and passing it on to our children and their children...
 
 
 
-<a href="https://coinmarketcap.com/all/views/all/" target="_blank">Analyze and study Crypto-Currency Markets</a>
+<a href="https://coinmarketcap.com/all/views/all/" target="_blank">Analyze and study Crypto-Currency Markets- coinmarketcap.com</a>
 
 
 OpenLedger-
 
 
-I highly reccomend everyone to open their free crypto currencies accounts at OpenLedger/Bitshares (BTS).  This DEX is leading the way forward in our crypto space.
+I highly reccomend everyone to open their free crypto currencies accounts at OpenLedger/Bitshares (BTS).  This DEX is now leading the way forward in our crypto space.
 
 Create free account:   <a href="https://openledger.io?r=honest-money" target="_blank">OpenLedger</a>                                                         
 
