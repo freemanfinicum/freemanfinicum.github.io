@@ -3,79 +3,63 @@
 
 Welcome Everyone to the Crypto-Currencies Open your free Accounts links Webpage :)
 
-I am Edward Freeman Reidhead and I am creating financial independence in my life now.  I invite everyone to take responsibilty for your personal finances and create your own free crypto-currency aka Bitcoin BTC accounts via links below.  Anyone can develop financial sovereignty and independence in their life using crypto-currencies.  I find that using a couple of accounts at different exchanges works best for me, I can learn the different trading functions and practice completing "deposits" and "withdrawals" of Bitcoin (BTC) and other crypto-currencies.  
-I am totally committed to using crypto-currencies now and in the future.  Take action now and create your own free crypto-currencies accounts.  We are all at the beginning of a revolution in financial sovereignty and independence if we choose to make it so.  I stand as source in developing blockchain based solutions that are open source, sovereign, independent, private and free of governmental confusion.  We can all co-create the new financial landscape as we choose.  By opening your free crypto currencies accounts you send strong signals to all the world.  A changing of the guard is developing in personal finance across the world.  Join me in creating the kind of financial system we can all be worthy of and passing it on to our children and their children...
+I bring this forth in honor of Connor...
 
-
-
-<a href="https://coinmarketcap.com/all/views/all/" target="_blank">Analyze and study Crypto-Currency Markets- coinmarketcap.com</a>
+<a href="https://coinmarketcap.com/all/views/all/" target="_blank">The Bible of Crypto-Currency Markets- coinmarketcap.com</a>
 
 
 OpenLedger-
 
 
-I highly reccomend everyone to open their free crypto currencies accounts at OpenLedger/Bitshares (BTS).  This DEX is now leading the way forward in our crypto space.
+New technology and best long term option with track record of integrity, independence and security-
 
-Create free account:   <a href="https://openledger.io?r=honest-money" target="_blank">OpenLedger</a>                                                         
+Create free account with me:   <a href="https://openledger.io?r=honest-money" target="_blank">OpenLedger wallet model</a>
 
-OpenLedger Intro:   <a href="https://www.youtube.com/watch?v=JG_XiOdbum8" target="_blank">What is OpenLedger?</a>
+Create free account independently:   <a href="https://openledger.io" target="_blank">OpenLedger wallet model</a>
 
-How to fund your new account:   <a href="https://www.youtube.com/watch?v=B050uCS7NbI" target="_blank">How to create and fund your OpenLedger account</a>
-
-Create your sovereign and free blockchain based social blogging account:    <a href="https://steemit.com/" target="_blank">Steemit</a>
+Create free online wallet (new technology):  <a href="https:wallet.bitshares.org" target="_blank">OpenLedger online account model</a>
 
 
-Bittrex-
 
-
-I also reccomend opening an account here at Bittrex, I have never had any issues with them.
-
-Create free account:   <a href="https://bittrex.com/Account/Register" target="_blank">Bittrex</a>
-
-How to fund your new account:   <a href="https://www.youtube.com/watch?v=ITUX4W6Ig2w" target="_blank">How to fund your new account</a>
+Make contact via web with all your family and friends...:    <a href="https://steemit.com/" target="_blank">Steemit</a>
 
 
 HEATLedger-
 
 
-The HEAT in on...  I feel that <a href="http://heatledger.com/" target="_blank">HEATLedger</a> is the future of real time cryto currencies trading and exchange.  HEATLedger is leading the way in developing a blockchain based financial system to benefit all humanity. 
+Is this the future of online wallets and asset exchanges...
+ 
 
-Create free account:   <a href="https://heatwallet.com/" target="_blank">HEAT wallet</a>
-
-
-ViaBTC-
+Create your free account:   <a href="https://heatwallet.com/" target="_blank">HEAT wallet</a>
 
 
-Open Cloud Mining Account:   <a href="https://pool.viabtc.com/?r=34262" target="_blank">Open ViaBTC.com cloud mining account</a>
+Asia
 
 
-Open Cloud Mining Account:   <a href="https://www.youtube.com/watch?v=3Ld5L4VIpRA" target="_blank">ViaBTC cloud mining account video</a>
+I would open an account here:   <a href="https://www.coinex.com/" target="_blank">Coinex.com</a>
+
+
+Kraken is best option for USD USA bank deposits:   <a href="https://www.kraken.com/u/trade" target="_blank">kraken.com</a>
 
 
 
 My Contact info:
 
 
-<a href="ereidhead@gmail.com" target="_blank">ereidhead@gmail.com</a>
+<a href="youmatterrightnow@gmail.com" target="_blank">youmatterrightnow@gmail.com</a>
 
 
 <a href="www.facebook.com/edward.reidhead.1" target="_blank">Facebook</a>
 
 
-I Am developing the following projects:
-
-Community-Crypto-Union and Asset Exchange- Project Development:   <a href="https://github.com/freemanfinicum/community-crypto-union/" target="_blank">Community-Crypto-Union and Exchange</a>
-
-Online Reputation Repository
-
-Send me an email if you are interested in being an OpenLedger Ambassador for the entire eco-system of offerings of OpenLedger DEX:   <a href="https://steemit.com/blockchain/@bloggersclub/openledger-aps-is-hiring-country-ambassadors" target="_blank">OpenLedger Ambassadors Club</a>
-
-If you are interested in contributing to a project, send me an email and I will add you to our Slack.com team web page-  blockchaincreator.slack.com
 
 
 
 
-This URL/domain is named in honor of Lavoy Finicum and the sacrifice he made in Oregon...
+This URL/domain is named in honor of Lavoy Finicum and the sacrifice he made in Oregon (Murdered by Oregon State Police/FBI on Jan 26, 2016)...
+
+
+Connor Reidhead Lives!
 
 
 
