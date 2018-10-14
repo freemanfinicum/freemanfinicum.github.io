@@ -3,7 +3,16 @@
 
 Welcome Everyone to the Crypto-Currencies Open your free Accounts links Webpage :)
 
-I bring this forth in honor of Connor...
+I bring this forth in honor of Connor Reidhead...
+
+
+
+In honor of Connor- New Update:  All Artist can now open their own free accounts on blockchain
+
+<a href="https://soundac.io/" target="_blank">Soundac-  A Proven Platform For Autonomous Royalty Payments</a>
+
+<a href="https://peertracks.com/" target="_blank">PeerTracks-  Free Music Streaming</a>
+
 
 <a href="https://coinmarketcap.com/all/views/all/" target="_blank">The Bible of Crypto-Currency Markets- coinmarketcap.com</a>
 
